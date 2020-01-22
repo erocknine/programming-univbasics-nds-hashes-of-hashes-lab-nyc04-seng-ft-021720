@@ -28,6 +28,11 @@
 # }
 
 def naming_system
+  kingdom = {
+    
+  }
+
+end
   # Remember:
   #  Kingdom
   #  Phylum
@@ -36,7 +41,4 @@ def naming_system
   #  Family
   #  Genus
   #  Species
-  # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  # HoH all the way to Species!
-
-end
+  # So, if we have the "Kingdom" node we should be able to "tunnel" into the HoH all the way to Species!
