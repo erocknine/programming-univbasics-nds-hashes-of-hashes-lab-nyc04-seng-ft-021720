@@ -29,7 +29,7 @@
 
 def naming_system
   kingdom = {
-    phylum:
+    
   }
 
 end
